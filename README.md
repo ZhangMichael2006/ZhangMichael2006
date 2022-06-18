@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, blah blah blah
 - 🌱 I’m currently learning C, C++, maybe Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You won't able to find me
 
 <!---
 ZhangMichael2006/ZhangMichael2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
